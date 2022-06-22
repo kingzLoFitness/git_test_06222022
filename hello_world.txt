@@ -1,0 +1,6 @@
+Within "Modify a file or two" section, #6 instructions (see notes):
+- I was told to add some text
+- save it and stage it
+- then to add "git add ." to add this and all files in current directory and all subsequent directories to the staging area
+- and type "git status" to see everything in the staging area 
+
